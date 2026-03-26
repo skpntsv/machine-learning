@@ -13,12 +13,9 @@
 
 ## Блок 3
 
-- k-means, k-means++
-- DBSCAN
-- Mean Shift
+- [Кластеризация](03-clustering/clustering.ipynb) - `k-means`, `k-means++`, `DBSCAN` и `Mean Shift`.
 
 ## Блок 4
 
-- Метод главных компонент (PCA)
-- Нейронная сеть прямого распространения, классификация
-- Нейронная сеть прямого распространения, регрессор
+- [PCA и MLP-классификация](04-dimensionality-reduction-and-neural-networks/pca-and-mlp-classification.ipynb) - `PCA` и нейронная сеть прямого распространения на датасете `Digits`.
+- [MLP-регрессия](04-dimensionality-reduction-and-neural-networks/mlp-regression.ipynb) - нейронная сеть прямого распространения на датасете `California Housing`.
