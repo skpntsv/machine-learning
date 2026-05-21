@@ -19,3 +19,7 @@
 
 - [PCA и MLP-классификация](04-dimensionality-reduction-and-neural-networks/pca-and-mlp-classification.ipynb) - `PCA` и нейронная сеть прямого распространения на датасете `Digits`.
 - [MLP-регрессия](04-dimensionality-reduction-and-neural-networks/mlp-regression.ipynb) - нейронная сеть прямого распространения на датасете `California Housing`.
+
+## Презентация
+
+- [Наивный байесовский классификатор](naive_bais.pdf)
